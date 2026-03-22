@@ -47,11 +47,13 @@ Uygulama:
 | İş Paketi | Açıklama | Sorumlu |
 |---|---|---|
 | 1 | Kullanıcıdan aranacak kelimeyi alma | Hafsa |
-| 2 | Belirtilen metin dosyasını açma | Yunus |
+| 2 | Belirtilen metin dosyasını açma | Hafsa |
 | 3 | Dosyayı satır satır okuma | Yunus |
-| 4 | Aranan kelimenin toplam tekrar sayısını hesaplama | Selim |
-| 5 | Kelimenin geçtiği satır numaralarını listeleme | Yunus |
-| 6 | Sonuçları kullanıcıya raporlama | Deniz |
+| 4 | Aranan kelimenin toplam tekrar sayısını hesaplama | Yunus |
+| 5 | Kelimenin geçtiği satır numaralarını listeleme | Selim |
+| 6 | Sonuçları kullanıcıya raporlama | Selim |
+| 7 | Çıktı modu seçimi ve dosyaya yazma | Deniz |
+| 8 | Windows/Linux uyumluluğu ve karakter desteği | Deniz |
 
 ---
 
